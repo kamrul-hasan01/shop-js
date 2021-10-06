@@ -1,0 +1,22 @@
+.custom-style{
+    position: stick;
+    bottom: 1px;
+    width: 340px;
+    padding:  0 10px;
+}
+.box-shadow{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    position: relative;
+}
+.number{
+    position: absolute;
+    /* top: -; */
+    left: 55px;
+    color: rgb(255, 255, 255);
+    bottom: 50px;
+ 
+    width: 20px;
+    height: 20px;
+    background-color: rgb(81, 107, 221);
+    border-radius: 50%;
+}
